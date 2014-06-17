@@ -17,4 +17,4 @@ Obs: Edite o arquivo aspira/util/util.go e coloque seus dados de servidor
 * adicionar log
 * parametrizar url
 * parametrizar credenciais
-
+* parametrizar nickname e avatar
